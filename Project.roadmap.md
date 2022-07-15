@@ -1,1 +1,4 @@
-a
+- [x] Update the project roadmap
+- [x] Update README file
+- [x] Analyze and evaluate the forked repository
+- [ ] List ways to improve code
